@@ -1,0 +1,1 @@
+This program is designed to calculate ratio of transitions over transversions where 2 DNA strings eith equal lenght are provided. Transitions include A<-->G, C<-->T while transversions contain A<-->C, G<-->T, C<-->G, A<-->T. The task that this program tackles can be seen as calculating potential mutations we are expected to observe i.e. ratio is expected to be around 1.5.
